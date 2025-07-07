@@ -1,0 +1,4 @@
+Things learnt-
+1.KeysEvents
+2.Playing audio
+3.Transitions
